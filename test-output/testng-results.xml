@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="109456" started-at="2018-01-09T18:18:24Z" finished-at="2018-01-09T18:20:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="109456" started-at="2018-01-09T18:18:24Z" finished-at="2018-01-09T18:20:13Z">
+      <class name="com.crm.qa.testClasses.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testClasses.LoginPageTest@70fda8]" name="setUp" is-config="true" duration-ms="32592" started-at="2018-01-09T12:18:26Z" finished-at="2018-01-09T12:18:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTest(java.lang.String, java.lang.String)[pri:0, instance:com.crm.qa.testClasses.LoginPageTest@70fda8]" name="loginPageTest" duration-ms="15349" started-at="2018-01-09T12:18:59Z" data-provider="getCRMTestData" finished-at="2018-01-09T12:19:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[praneeth]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[praneeth]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testClasses.LoginPageTest@70fda8]" name="tearDown" is-config="true" duration-ms="11488" started-at="2018-01-09T12:19:14Z" finished-at="2018-01-09T12:19:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testClasses.LoginPageTest@70fda8]" name="setUp" is-config="true" duration-ms="16725" started-at="2018-01-09T12:19:26Z" finished-at="2018-01-09T12:19:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTest(java.lang.String, java.lang.String)[pri:0, instance:com.crm.qa.testClasses.LoginPageTest@70fda8]" name="loginPageTest" duration-ms="475" started-at="2018-01-09T12:19:42Z" data-provider="getCRMTestData" finished-at="2018-01-09T12:19:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[praneeth1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[praneeth1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testClasses.LoginPageTest@70fda8]" name="tearDown" is-config="true" duration-ms="5366" started-at="2018-01-09T12:19:43Z" finished-at="2018-01-09T12:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testClasses.LoginPageTest@70fda8]" name="setUp" is-config="true" duration-ms="22582" started-at="2018-01-09T12:19:48Z" finished-at="2018-01-09T12:20:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTest(java.lang.String, java.lang.String)[pri:0, instance:com.crm.qa.testClasses.LoginPageTest@70fda8]" name="loginPageTest" duration-ms="486" started-at="2018-01-09T12:20:11Z" data-provider="getCRMTestData" finished-at="2018-01-09T12:20:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[praneeth2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[praneeth2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testClasses.LoginPageTest@70fda8]" name="tearDown" is-config="true" duration-ms="1690" started-at="2018-01-09T12:20:11Z" finished-at="2018-01-09T12:20:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testClasses.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
